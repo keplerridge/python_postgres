@@ -6,7 +6,7 @@ This program integrates with a locally hosted postres database using the psycopg
 
 I had used postgres before but I had not done much with it while integrating python. This gave me a good chance to really delve into it and see how it works. I was able to see how I can run an entire seed file to create the schema for a database as well as delete and modify items in the table.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/53x-3dQrSS4)
 
 # Relational Database
 
